@@ -47,6 +47,8 @@ pre=scaler.inverse_transform(prediction)
 print(f"Predicted value: {pre}")
 ```
 
+
+
 ## Output:
 ![expt 3](https://github.com/user-attachments/assets/fefd1ed0-2cde-4b13-b2b7-b9b67e7810b9)
 
